@@ -1,0 +1,64 @@
+body {
+  position: relative;
+  overflow-y: scroll;
+}
+
+.bienvenidos {
+	background: url("../image/terminal1.jpg");
+	background-size: cover;/*mejora las imagenes*/
+	height: 100vh;/*100%  de la pantalla del usuario*/
+  	overflow: hidden; 
+  }
+/*.bienvenidos{
+	margin: auto;
+	background-size: cover;mejora las imagenes
+	height: 100vh;100%  de la pantalla del usuario
+  	overflow: hidden; 
+}*/
+.texto-bienvenidos {
+	/*position: absolute;
+	top: 100px;
+	left: 25%;
+	z-index: 100;
+  	/*color: #fff;*/
+  	color: black;
+	margin-top: 15rem; 
+}
+.registro{
+	background: #eee;
+	height: 81vh;
+}
+#mapa-rutas{
+	padding-top: 50px;
+	background: #7db804;
+}
+.video{
+	padding-top: 50px;
+	background: #7db804;
+	height: 600px;
+}
+#descripcion{
+	padding: 55px;	
+	/*background: #1c9fc9;*/
+	background: #eee;
+}
+#mapa{
+	padding: 55px;
+	background: #eee;
+}
+.footer {
+  color: #fff;
+  background: #222222; 
+}
+.quienes-somos{
+	background: #7db804;
+ 	padding-top: 50px;
+}
+.slider-1 img{
+ 	width:33%;
+ 	height: 30%	;
+}
+.registro2{
+	background: red;
+	padding-top: 20rem;
+}
